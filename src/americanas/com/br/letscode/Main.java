@@ -1,7 +1,7 @@
 package americanas.com.br.letscode;
 
 import Classesimplements.HandlerFile;
-import Classesimplements.MFile;
+import Model.MFile;
 import Model.MFileAnnotationTypeEnum;
 
 import java.util.Scanner;

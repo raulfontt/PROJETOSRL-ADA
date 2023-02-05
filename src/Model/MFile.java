@@ -1,4 +1,4 @@
-package Classesimplements;
+package Model;
 
 import Model.MFileAnnotationTypeEnum;
 
@@ -6,6 +6,11 @@ public class MFile {
     private String content;
     private String nameFile;
     private MFileAnnotationTypeEnum type;
+    private String path;
+
+    public String getPath() {
+        return path;
+    }
 
     public MFile(){
     }
@@ -44,5 +49,6 @@ public class MFile {
     }
 
     public void setPath(String path) {
+        this.path = path;
     }
 }
