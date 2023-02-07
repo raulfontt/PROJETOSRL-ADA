@@ -1,2 +1,2 @@
 # PROJETOSRL-ADA
-Projeto manupulador de arquivos
+Projeto manIpulador de arquivos
